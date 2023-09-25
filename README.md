@@ -1,5 +1,6 @@
 # The_cybersecurity_teaching_application_for_kid-s_System 
-#by Eng.Ali Majed
+# by Eng.Ali Majed
+
 This project is an application designed to teach kids about cybersecurity concepts and equip 
 them with the necessary skills to protect themselves online. The application covers topics such as
 passwords, data encryption, phishing, viruses, cyberbullying and identity theft in an easy-to-understand and 
