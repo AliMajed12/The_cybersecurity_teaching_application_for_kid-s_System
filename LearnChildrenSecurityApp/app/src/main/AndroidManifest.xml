@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.LearnChildrenSecurityApp">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="com.javapapers.currentlocationinmap.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/login"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/login"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LearnChildrenSecurityApp"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".ChildViewSpacificLessonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ParentEvaluateLessonsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ParentManageChildActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ContactUsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ManageLessonsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddLessonQuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChildEvaluateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChildManageExamsLessonsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChildViewLessonsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ManageParentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ManageChildActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ManageAdminActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddLessonsActivity"
+            android:exported="false"
+            android:label="Add New Lessons" />
+        <activity
+            android:name=".ConactForHelpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChildControlScreenActivity"
+            android:exported="false"
+            android:label="Children control" />
+        <activity
+            android:name=".ParentControlScreenActivity"
+            android:exported="false"
+            android:label="Parent control" />
+        <activity
+            android:name=".AdminControlScreenActivity"
+            android:exported="false"
+            android:label="Administrator control" />
+        <activity
+            android:name=".ForgetPasswordActivity"
+            android:exported="false"
+            android:label="Forget Password" />
+        <activity
+            android:name=".EvaluateActivity"
+            android:exported="false"
+            android:label="Evaluate screen" />
+        <activity
+            android:name=".LoginSecondActivity"
+            android:exported="false"
+            android:label="Verification screen" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false"
+            android:label="Sign Up" />
+        <activity
+            android:name=".LoginFristActivity"
+            android:exported="false"
+            android:label="Sign in" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

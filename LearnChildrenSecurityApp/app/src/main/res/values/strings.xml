@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lessons Security App</string>
+    <string-array name="Type">
+        <item>Choose Type</item>
+        <item>Administrator</item>
+        <item>Parent</item>
+        <item>Children</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/drawable/gradian.xml" value="0.1465" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_add_payments.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_admin_control_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_client_control_screen.xml" value="0.22" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_client_evaluate_provider.xml" value="0.19010416666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_client_manage_request_service.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_client_request_service.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_client_show_his_evaluation.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_client_view_payments.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_client_view_provider_for_addpayment.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_conact_for_help.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_evaluate.xml" value="0.19947916666666668" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_forget_password.xml" value="0.19947916666666668" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_login_frist.xml" value="0.19947916666666668" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_login_second.xml" value="0.25" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_ma_admin_view_all_payments.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_ma_admin_view_all_requests.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_manage_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_manage_client.xml" value="0.19010416666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_manage_provider.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_provider_accept_requests.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_provider_control_screen.xml" value="0.25" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_provider_manage_evaluate_clients.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_provider_manage_payments.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_provider_show_his_evaluation.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/AAARecruitingOfficeApplication/RecruitingOfficeApp/app/src/main/res/xml/network_security_config.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/drawable/gradian.xml" value="0.148" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_add_lessons.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_admin_control_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_child_control_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_child_evaluate.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_child_manage_exams_lessons.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_child_view_lessons.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_client_request_service.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_conact_for_help.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_evaluate.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_forget_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_login_frist.xml" value="0.19947916666666668" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_login_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_manage_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_manage_child.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_manage_parent.xml" value="0.19947916666666668" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_parent_control_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/AAGameProject/LearnChildrenSecurityApp/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_admin_control_screen.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/drawable/gradian.xml" value="0.1515" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_add_payments.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_admin_control_screen.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_client_request_service.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_client_view_payments.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_client_view_provider_for_addpayment.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_evaluate.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_login_frist.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_login_second.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_manage_admin.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_manage_provider.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_provider_manage_payments.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ACER/Desktop/OurProject/RecruitingOfficeApp/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

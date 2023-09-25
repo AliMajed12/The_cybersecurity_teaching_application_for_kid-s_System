@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradian"
+
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="20dp">
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="20dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:background="@drawable/intro" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="1dp">
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:layout_marginHorizontal="100dp"
+            android:onClick="GoLoginParent"
+            android:text="Parent"
+            android:textColor="#ffffff"
+            android:textSize="8pt"
+            tools:ignore="TouchTargetSizeCheck" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="1dp">
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:layout_marginHorizontal="100dp"
+            android:onClick="GoLoginChild"
+            android:text="Children"
+            android:textColor="#ffffff"
+            android:textSize="8pt"
+            tools:ignore="TouchTargetSizeCheck" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="1dp">
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:layout_marginHorizontal="100dp"
+            android:background="#2AA630"
+            android:onClick="GoLoginAdmin"
+            android:text="Administrator"
+            android:textColor="#ffffff"
+            android:textSize="8pt"
+            tools:ignore="TouchTargetSizeCheck" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="20dp">
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:layout_marginHorizontal="100dp"
+            android:background="#2AA630"
+            android:onClick="GoRegister"
+            android:text="Sign Up"
+            android:textColor="#ffffff"
+            android:textSize="10pt"
+            tools:ignore="TouchTargetSizeCheck" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
